@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dashboard/static/css/main.eeaf6dd4.chunk.css",
+    "main.js": "/dashboard/static/js/main.10fb527b.chunk.js",
+    "main.js.map": "/dashboard/static/js/main.10fb527b.chunk.js.map",
+    "runtime-main.js": "/dashboard/static/js/runtime-main.26bbd547.js",
+    "runtime-main.js.map": "/dashboard/static/js/runtime-main.26bbd547.js.map",
+    "static/js/2.3a183501.chunk.js": "/dashboard/static/js/2.3a183501.chunk.js",
+    "static/js/2.3a183501.chunk.js.map": "/dashboard/static/js/2.3a183501.chunk.js.map",
+    "static/js/3.29506694.chunk.js": "/dashboard/static/js/3.29506694.chunk.js",
+    "static/js/3.29506694.chunk.js.map": "/dashboard/static/js/3.29506694.chunk.js.map",
+    "index.html": "/dashboard/index.html",
+    "static/css/main.eeaf6dd4.chunk.css.map": "/dashboard/static/css/main.eeaf6dd4.chunk.css.map",
+    "static/js/2.3a183501.chunk.js.LICENSE.txt": "/dashboard/static/js/2.3a183501.chunk.js.LICENSE.txt",
+    "static/media/holberton-logo.24bab5d6.jpg": "/dashboard/static/media/holberton-logo.24bab5d6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26bbd547.js",
+    "static/js/2.3a183501.chunk.js",
+    "static/css/main.eeaf6dd4.chunk.css",
+    "static/js/main.10fb527b.chunk.js"
+  ]
+}
